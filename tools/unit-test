@@ -1,4 +1,0 @@
-#!/bin/bash
-
-echo "Unit test start"
-echo "Unit Test complete"
